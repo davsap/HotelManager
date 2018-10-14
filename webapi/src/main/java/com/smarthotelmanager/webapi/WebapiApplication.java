@@ -1,12 +1,12 @@
-package com.smarthotelmanager.api.smarthotelmanagerapi;
+package com.smarthotelmanager.webapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmarthotelmanagerapiApplication {
+public class WebapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmarthotelmanagerapiApplication.class, args);
+		SpringApplication.run(WebapiApplication.class, args);
 	}
 }
